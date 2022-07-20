@@ -5,4 +5,4 @@ Here you will find my notes, problem sets (and my solutions), and projects!
 
 Check out my LinkedIn: https://www.linkedin.com/in/pspascual/
 
-out my website: https://www.paulpascual.com
+Check out my website too: https://www.paulpascual.com

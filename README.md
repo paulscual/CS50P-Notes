@@ -1,4 +1,4 @@
-# CS50P Notes
+# My CS50P Notes
 My notes for HarvardX's CS50P - Introduction to Programming with Python
 
 Here you will find my notes, problem sets (and my solutions), and projects!
